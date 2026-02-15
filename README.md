@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kamlesh Kumar</h1>
-<h3 align="center">Frontend Developer | Full Stack Developer | Cloud Enthusiast</h3>
+<h3 align="center">Frontend Developer | Full Stack Developer | Data Science | Cloud Enthusiast</h3>
 
 <p align="center">
-I build responsive, scalable web applications using modern frontend frameworks and backend technologies.
-Focused on writing clean, maintainable code and continuously improving system design and cloud skills.
+Passionate about building scalable web applications and solving real-world problems through clean and efficient code.
 </p>
 
 ---
 
 ### 👨‍💻 Professional Summary
 
-- 💻 Strong in Frontend Development (React, JavaScript, Tailwind)
-- ⚙️ Experience with Backend Development (Node.js, Python)
-- ☁️ Working knowledge of Cloud & DevOps tools (AWS, Docker, Kubernetes)
-- 🗄️ Database handling with SQL & NoSQL systems
+- 💻 Strong in Frontend Development (Html,Css,React, JavaScript, Tailwind)
+- ⚙️ Backend Development experience (Node.js, Python)
+- 📊 Practical knowledge of Data Analysis & Machine Learning
+- ☁️ Familiar with Cloud & DevOps tools (AWS, Docker, Kubernetes)
 - 📫 Contact: **kamlesh05469@gmail.com**
 
 ---
@@ -31,26 +30,36 @@ Focused on writing clean, maintainable code and continuously improving system de
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-#### Frontend
-HTML5 | CSS3 | JavaScript | React.js | Next.js | Vue.js | Tailwind CSS
+### 💻 Frontend
+HTML5 | CSS3 | JavaScript | React.js | Vue.js | Tailwind CSS
 
-#### Backend
+### ⚙️ Backend
 Node.js | Python | Java | C
 
-#### Databases
+### 🗄️ Databases
 MongoDB | MySQL | Microsoft SQL Server
 
-#### Cloud & DevOps
+### ☁️ Cloud & DevOps
 AWS | Docker | Kubernetes | Linux | Git
-
-#### Data & Machine Learning
-Pandas | Scikit-Learn | Seaborn
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 Data Science & Machine Learning
+
+### 🔹 Data Analysis
+Pandas | NumPy | Data Cleaning | Exploratory Data Analysis (EDA)
+
+### 🔹 Visualization
+Matplotlib | Seaborn
+
+### 🔹 Machine Learning
+Scikit-Learn | Supervised & Unsupervised Learning | Model Evaluation
+
+---
+
+### 📈 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
@@ -61,10 +70,10 @@ Pandas | Scikit-Learn | Seaborn
 
 ### 🎯 2026 Goals
 
-- Improve Advanced React & System Design skills  
-- Gain deeper expertise in AWS Cloud Architecture  
-- Contribute to Open Source projects  
-- Build production-level full stack applications  
+- Build end-to-end ML + Web integrated projects  
+- Strengthen System Design fundamentals  
+- Deepen AWS & Cloud Architecture knowledge  
+- Contribute to meaningful Open Source projects  
 
 ---
 
