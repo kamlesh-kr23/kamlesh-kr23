@@ -36,7 +36,7 @@ Passionate about building scalable web applications and solving real-world probl
 HTML5 | CSS3 | JavaScript | React.js | Vue.js | Tailwind CSS
 
 ### ⚙️ Backend
-Node.js | Python | Java | C
+Node.js | Python | Java
 
 ### 🗄️ Databases
 MongoDB | MySQL | Microsoft SQL Server
